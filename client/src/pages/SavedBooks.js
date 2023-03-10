@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import {
   Jumbotron,
   Container,
-  Card,
   CardColums,
+  Card,
   Button
 } from 'react-bootstrap';
 
